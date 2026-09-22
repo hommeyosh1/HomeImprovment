@@ -1,32 +1,38 @@
-CHRISTOPHER HOFFMAN - PROPERTY IMPROVEMENT & REAL ESTATE PORTFOLIO
+MC DESIGNS HANDYMAN & MAINTENANCE - WEBSITE UPDATE
 
-This update changes the site from a general home-improvement site into a property rehabilitation / house-flip / real-estate portfolio.
+This ZIP updates the existing Pittsburgh property-improvement website with the new MC Designs Handyman & Maintenance branding.
 
-FILES IN THIS ZIP
+CHANGES INCLUDED
+- New MC Designs blue/charcoal/white color palette
+- New MC Designs logo in the header
+- Updated handyman and maintenance business copy
+- Updated services for flooring, drywall, painting, carpentry, tile, plumbing/electrical repairs, remodeling and maintenance
+- New before/after example section for living room, kitchen and bathroom projects
+- Text-first contact call to action
+- Existing real project portfolio and real-estate education section retained
+- Mobile responsive styling retained
+
+FILES INCLUDED
 - index.html
 - styles.css
 - script.js
 - README.txt
+- mc-designs-logo.png
+- living-room-before-after.png
+- kitchen-before.png
+- kitchen-after.png
+- bathroom-before.png
+- bathroom-after.png
 
 IMPORTANT
-This ZIP intentionally does NOT contain a main folder. Extract these files directly into your existing main website folder.
-
-The site expects your existing image folder to remain here:
+Your existing GitHub image folder should remain in place because the original portfolio still uses:
 Images/HomeImprovmentSite_Images/
 
-REAL ESTATE LICENSE SECTION
-The site does NOT claim that a Pennsylvania real-estate license has already been issued.
-When you receive your license, open index.html and search for:
-ADD WHEN ISSUED
-ADD BROKERAGE
-
-Replace those placeholders with your license number and brokerage information.
+Upload the files from this ZIP into the same website root as index.html. Replace index.html and styles.css when GitHub asks. Keep the existing Images folder.
 
 CONTACT INFORMATION USED
+MC Designs Handyman & Maintenance
 Christopher Hoffman
 Pittsburgh, Pennsylvania
-412-330-8680
-ch76151@gmail.com
-
-MOBILE
-The layout is responsive for desktop, tablet and cell phone. On smaller phones the navigation becomes a hamburger menu, project grids become one-column layouts, and all primary buttons become full width.
+Text: 412-330-8680
+Email: ch76151@gmail.com
